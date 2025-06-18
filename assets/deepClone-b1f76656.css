@@ -1,0 +1,1 @@
+.widget-multiSelectWithLabel{display:flex;flex-direction:column;gap:.5rem}.widget-multiSelectWithLabel-label{font-size:.9rem;font-weight:600;text-transform:uppercase}@media (max-width: 767px){.widget-multiSelectWithLabel-label{font-size:.85rem}}.widget-multiSelectWithLabel-label-disabled{color:#bbbec4}

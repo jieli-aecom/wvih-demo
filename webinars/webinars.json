@@ -1,0 +1,43 @@
+[
+  {
+    "dateNum": "202410080000",
+    "name": "West Virginia Office of Energy Program Updates",
+    "description": [
+      "Learn about upcoming programs and funding opportunities from the West Virginia Office of Energy."
+    ],
+    "links": [],
+    "recordingUrl": "/videos/video/west-virginia-office-of-energy-program-updates-20241008",
+    "recordingDisabled": false
+  },
+  {
+    "dateNum": "202403271400",
+    "name": "U.S. DOL Grants Overview Webinar",
+    "description": [
+      "DOL Grants Webinar – Learn About Resources Available for Fiscal Year 2024"
+    ],
+    "eventUrl": "https://usdolevents.webex.com/weblink/register/rc54478b93c51e99e3cad1d19ebd8014a",
+    "links": [],
+    "recordingUrl": "https://usdolevents.webex.com/weblink/register/rc54478b93c51e99e3cad1d19ebd8014a",
+    "recordingDisabled": true
+  },
+  {
+    "dateNum": "202408060830",
+    "name": "Virtual Resiliency Workshop",
+    "description": [
+      "The West Virginia Infrastructure Hub team hosted a virtual workshop on August 6 to inform communities about upcoming funding opportunities and introduce ongoing efforts to strengthen resiliency across the Mountain State. This workshop featured an overview of the role of the State Resiliency Office and a presentation from the Emergency Management Division on how to apply for hazard mitigation programs. Attendees were also able to discuss upcoming federal funding opportunities for community resiliency projects with subject matter experts from the Infrastructure Hub.",
+      "To watch the full recording of this workshop, please click the Recording link. If you would like to watch a specific presentation, click the link below to open the agenda. Once you have read through the agenda, click the title of the presentation you are interested in to view the recording."
+    ],
+    "eventUrl": "/documents/WV_Statewide_Resiliency_Workshop_Interactive_Agenda.pdf",
+    "links": [
+      {
+        "label": "Agenda",
+        "url": "/documents/WV_Statewide_Resiliency_Workshop_Interactive_Agenda.pdf"
+      },
+      {
+        "label": "Presentation",
+        "url": "/documents/WV_Statewide_Resiliency_Workshop_Presentation.pdf"
+      }
+    ],
+    "recordingUrl": "/videos/video/virtual-resiliency-workshop-20280806"
+  }
+]

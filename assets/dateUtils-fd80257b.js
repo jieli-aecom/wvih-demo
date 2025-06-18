@@ -1,0 +1,1 @@
+const a=["January","February","March","April","May","June","July","August","September","October","November","December"],n=["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],r=(e,t)=>new Date(t,e+1,0).getDate(),s=(e,t)=>new Date(t,e,1).getDay();export{s as a,r as g,a as m,n as w};

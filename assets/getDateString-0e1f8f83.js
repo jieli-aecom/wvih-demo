@@ -1,0 +1,1 @@
+import{m as c}from"./dateUtils-fd80257b.js";function i(m){const n=m.toString(),r=n.slice(0,4),t=n.slice(4,6),e=t&&Number(t)>0&&Number(t)<=12?c[Number(t)-1]:"",o=n.slice(6,8),s=e?", ":"";return`${e}${o&&Number(o)>0?" "+o:""}${s}${r}`}export{i as g};
