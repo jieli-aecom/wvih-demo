@@ -1,0 +1,1 @@
+import{r}from"./index-3669318a.js";const i=()=>{const[n,e]=r.useState("mobile");return r.useEffect(()=>{const t=()=>{const{innerWidth:s}=window;s>=1079?e("desktop"):s>=767?e("tablet"):e("mobile")};return window.addEventListener("resize",t),t(),()=>{window.removeEventListener("resize",t)}},[]),n},c=i;export{c as u};
