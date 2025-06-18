@@ -1,0 +1,1 @@
+import{r as n}from"./index-b1478c04.js";const i={"Content-Type":"application/json","Content-Encoding":"gzip"};function c(){const e=n.useRef(null),[o,r]=n.useState(0);return n.useEffect(()=>{const t=()=>{e.current&&r(e.current.offsetWidth)};return window.addEventListener("resize",t),t(),()=>{window.removeEventListener("resize",t)}},[e]),{ref:e,width:o}}export{i as J,c as u};
