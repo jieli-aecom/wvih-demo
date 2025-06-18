@@ -1,0 +1,1 @@
+import{j as r,L as a,P as s}from"./index-5477577e.js";function n({text:i,link:e}){return r.jsx("div",{className:"backArrow",children:r.jsxs(a,{to:e,children:[r.jsx("span",{className:"material-symbols-outlined",children:"arrow_back"}),r.jsx("div",{children:i})]})})}n.propTypes={text:s.string.isRequired,link:s.string.isRequired};export{n as B};
